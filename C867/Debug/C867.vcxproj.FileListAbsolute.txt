@@ -1,0 +1,2 @@
+C:\Users\ashle\source\repos\C867\Debug\C867.exe.lastcodeanalysissucceeded
+C:\Users\ashle\source\repos\C867\C867\Debug\NativeCodeAnalysis.read.1.tlog

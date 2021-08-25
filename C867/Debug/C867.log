@@ -1,0 +1,7 @@
+﻿  main.cpp
+  roster.cpp
+  student.cpp
+  Running Code Analysis for C/C++...
+  Generating Code...
+  C867.vcxproj -> C:\Users\ashle\source\repos\C867\Debug\C867.exe
+C:\Users\ashle\source\repos\C867\C867\roster.cpp(47): warning C6386: Buffer overrun while writing to 'classRosterArray':  the writable size is 'maxCapacity*4' bytes, but '8' bytes might be written.
